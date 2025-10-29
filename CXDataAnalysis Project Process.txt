@@ -1,0 +1,9 @@
+Step 1 :
+https://www.kaggle.com/datasets/jahnavipaliwal/customer-feedback-and-satisfaction?resource=download
+
+Step 2 : 
+https://colab.research.google.com/drive/1-92D5DasXAD1L0cnHf17u0o2Iv0pohsB?usp=sharing
+
+Step 2 :
+PowerBI Dashboard 
+(Look for the Pdf or png file)
